@@ -192,4 +192,4 @@ This repository serves as the official landing page for Spectra Viewer. The soft
 **Get the most recent version of Spectra Viewer today!**
 
 ---
-**Last updated:** 2026-11-12 08:02:19 UTC
+**Last updated:** 2026-11-12 17:26:31 UTC
